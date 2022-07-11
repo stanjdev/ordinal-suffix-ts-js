@@ -17,7 +17,6 @@ var ordinalSuffix = function (number) {
     else {
         numString += 'th';
     }
-    // console.log(numString);
     return numString;
 };
 module.exports = ordinalSuffix;

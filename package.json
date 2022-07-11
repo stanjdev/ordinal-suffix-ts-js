@@ -1,14 +1,14 @@
 {
   "name": "ordinalsuffix-js",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A library to convert numbers to strings with the correct ordinal suffix",
   "main": "src/index.js",
   "scripts": {
     "test": "jest",
     "start": "tsc src/index.ts && node src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Stan Jeong",
   "license": "ISC",
   "dependencies": {
     "typescript": "^4.7.4"

@@ -15,7 +15,6 @@ const ordinalSuffix = (number: number): string => {
   } else {
     numString += 'th';
   }
-  // console.log(numString);
   return numString;
 };
 
